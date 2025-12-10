@@ -264,6 +264,3 @@ License and Attribution
 - This lab doc is for teaching and demo purposes. Adapt code and dependencies to your project’s license and security requirements.
 - When using Copilot-generated code in public repos, follow GitHub Copilot licensing and disclosure recommendations.
 
-Done — next steps
-- Copy this content into `README.md` in your project root and push to GitHub.
-- Want me to also generate the actual Java source files and sample `pom.xml` for you in this repo? If yes, tell me preferred Spring Boot version and build tool (Maven/Gradle) and I will scaffold them.
